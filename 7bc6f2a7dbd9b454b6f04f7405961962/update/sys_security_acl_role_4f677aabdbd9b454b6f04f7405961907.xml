@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>I049506</sys_created_by>
+        <sys_created_on>2021-07-18 13:10:31</sys_created_on>
+        <sys_id>4f677aabdbd9b454b6f04f7405961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.sapda.workspace.mccsos_test.mccsos_test</sys_name>
+        <sys_package display_value="MCCSOS_Test" source="x_sapda_mccsos_tes">7bc6f2a7dbd9b454b6f04f7405961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MCCSOS_Test">7bc6f2a7dbd9b454b6f04f7405961962</sys_scope>
+        <sys_security_acl display_value="x.sapda.workspace.mccsos_test">b6673aabdbd9b454b6f04f74059619d2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4f677aabdbd9b454b6f04f7405961907</sys_update_name>
+        <sys_updated_by>I049506</sys_updated_by>
+        <sys_updated_on>2021-07-18 13:10:31</sys_updated_on>
+        <sys_user_role display_value="mccsos_test" name="mccsos_test">b2677aabdbd9b454b6f04f7405961902</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

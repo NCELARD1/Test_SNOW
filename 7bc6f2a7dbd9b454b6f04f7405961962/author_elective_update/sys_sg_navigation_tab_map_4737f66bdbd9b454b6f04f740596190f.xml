@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="DELETE">
+        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation_tab display_value="MCCSOS_Test">3a37766bdbd9b454b6f04f74059619da</navigation_tab>
+        <order>700</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>I049506</sys_created_by>
+        <sys_created_on>2021-07-18 13:09:42</sys_created_on>
+        <sys_id>4737f66bdbd9b454b6f04f740596190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MCCSOS_Test" source="x_sapda_mccsos_tes">7bc6f2a7dbd9b454b6f04f7405961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MCCSOS_Test">7bc6f2a7dbd9b454b6f04f7405961962</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_4737f66bdbd9b454b6f04f740596190f</sys_update_name>
+        <sys_updated_by>I049506</sys_updated_by>
+        <sys_updated_on>2021-07-18 13:09:42</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MCCSOS_Test">7bc6f2a7dbd9b454b6f04f7405961962</application>
+        <file_path/>
+        <instance_id>6faeb789dbcfdf807d8cf22ebf96193b</instance_id>
+        <instance_name>sapsandbox</instance_name>
+        <name>sys_sg_navigation_tab_map_4737f66bdbd9b454b6f04f740596190f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map"><sys_sg_navigation_tab_map action="INSERT_OR_UPDATE"><navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation><navigation_tab display_value="MCCSOS_Test">3a37766bdbd9b454b6f04f74059619da</navigation_tab><order>700</order><sys_class_name>sys_sg_navigation_tab_map</sys_class_name><sys_created_by>I049506</sys_created_by><sys_created_on>2021-07-18 13:09:42</sys_created_on><sys_id>4737f66bdbd9b454b6f04f740596190f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="MCCSOS_Test" source="x_sapda_mccsos_tes">7bc6f2a7dbd9b454b6f04f7405961962</sys_package><sys_policy/><sys_scope display_value="MCCSOS_Test">7bc6f2a7dbd9b454b6f04f7405961962</sys_scope><sys_update_name>sys_sg_navigation_tab_map_4737f66bdbd9b454b6f04f740596190f</sys_update_name><sys_updated_by>I049506</sys_updated_by><sys_updated_on>2021-07-18 13:09:42</sys_updated_on></sys_sg_navigation_tab_map></record_update>]]></payload>
+        <payload_hash>-784419842</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>bbc6f2a7dbd9b454b6f04f7405961965</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>I049506</sys_created_by>
+        <sys_created_on>2021-07-18 13:09:42</sys_created_on>
+        <sys_id>0b37f66bdbd9b454b6f04f740596191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ab9bc99600000001</sys_recorded_at>
+        <sys_updated_by>I049506</sys_updated_by>
+        <sys_updated_on>2021-07-18 13:09:42</sys_updated_on>
+        <type>Navigation Tab Map</type>
+        <update_guid>8337f66b50d9b454ae21eecebf22211f</update_guid>
+        <update_guid_history>8337f66b50d9b454ae21eecebf22211f:-784419842</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>C5325949</sys_created_by>
+        <sys_created_on>2021-07-18 18:24:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_navigation_tab_map">sys_sg_navigation_tab_map</sys_db_object>
+        <sys_id>90446a7339a44a58bf00f3d52edc1de4</sys_id>
+        <sys_metadata>4737f66bdbd9b454b6f04f740596190f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MCCSOS_Test" source="x_sapda_mccsos_tes">7bc6f2a7dbd9b454b6f04f7405961962</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MCCSOS_Test">7bc6f2a7dbd9b454b6f04f7405961962</sys_scope>
+        <sys_scope_delete display_value="">8f2efefb3c494046a31c1a2c7655ee29</sys_scope_delete>
+        <sys_update_name>sys_sg_navigation_tab_map_4737f66bdbd9b454b6f04f740596190f</sys_update_name>
+        <sys_update_version display_value="sys_sg_navigation_tab_map_4737f66bdbd9b454b6f04f740596190f">0b37f66bdbd9b454b6f04f740596191f</sys_update_version>
+        <sys_updated_by>C5325949</sys_updated_by>
+        <sys_updated_on>2021-07-18 18:24:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

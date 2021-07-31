@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Account)">fa37b66bdbd9b454b6f04f740596190c</button>
+        <item_parameter display_value="Account active_escalation">7a37766bdbd9b454b6f04f74059619fa</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>I049506</sys_created_by>
+        <sys_created_on>2021-07-18 13:09:42</sys_created_on>
+        <sys_id>b637b66bdbd9b454b6f04f740596192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7a37766bdbd9b454b6f04f74059619fa</sys_name>
+        <sys_package display_value="MCCSOS_Test" source="x_sapda_mccsos_tes">7bc6f2a7dbd9b454b6f04f7405961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MCCSOS_Test">7bc6f2a7dbd9b454b6f04f7405961962</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b637b66bdbd9b454b6f04f740596192a</sys_update_name>
+        <sys_updated_by>I049506</sys_updated_by>
+        <sys_updated_on>2021-07-18 13:09:42</sys_updated_on>
+        <ui_parameter display_value="Active escalation">3a37b66bdbd9b454b6f04f7405961913</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
